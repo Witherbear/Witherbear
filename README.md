@@ -30,13 +30,10 @@ Welcome to my profile! <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
 </div>
+
 ---
 
 ### Stats :
-<!-- BLOG-POST-LIST:START -->
-- [Hello!](https://dev.to/witherbear/hello-29l5)
-<!-- BLOG-POST-LIST:END -->
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Witherbear&theme=monokai&hide_border=true)](https://git.io/streak-stats) <br>
 
 ---
@@ -49,3 +46,5 @@ Welcome to my profile! <br>
 ---
 
 ### Small Blog :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
