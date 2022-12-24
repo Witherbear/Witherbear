@@ -43,9 +43,8 @@ Welcome to my profile! <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witherbear&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### Small Blog :
-
----
 ### Today joke :
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+---
+
+### Small Blog :
