@@ -46,3 +46,6 @@ Welcome to my profile! <br>
 
 ### Small Blog :
 
+---
+### Today joke :
+![Jokes Card](https://readme-jokes.vercel.app/api)
