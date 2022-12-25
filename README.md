@@ -1,12 +1,13 @@
 # Hey!
 <div align="center">
-  Welcome to my profile!
   <div id="badges">
-    <a href="https://twitter.com/witherbearofc">
-      <img src="https:///badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> <br>
    <img src="https://komarev.com/ghpvc/?username=Witherbear&style=flat-square&color=blue" alt=""/>
+   <img src="https://img.shields.io/github/followers/Witherbear?style=flat-square">
+   <img src="https://img.shields.io/github/stars/Witherbear?style=flat-square">
+   <img src="https://img.shields.io/twitter/follow/witherbearofc?style=flat-square">
+   <img src="https://img.shields.io/reddit/user-karma/combined/WitherbearOfc?style=flat-square">
   </div>
+  <h3>Welcome to my profile!</h3>
 </div>
 
 ---
