@@ -1,9 +1,6 @@
 # Hey!
 Welcome to my profile! <br>
 <div id="badges">
-  <a href="https://youtube.com/c/Witherbear">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/witherbearofc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> <br>
@@ -15,7 +12,7 @@ Welcome to my profile! <br>
 
 - :zap: I'm just a guy who likes to modify codes
 - :man_technologist: I don't have any projects, but I want to create one!
-- :balloon: Actual project: Making a game.
+- :balloon: Just making nothing!
 
 ---
 
