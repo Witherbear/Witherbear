@@ -1,10 +1,12 @@
 # Hey!
-Welcome to my profile! <br>
-<div id="badges">
-  <a href="https://twitter.com/witherbearofc">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> <br>
- <img src="https://komarev.com/ghpvc/?username=Witherbear&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  Welcome to my profile!
+  <div id="badges">
+    <a href="https://twitter.com/witherbearofc">
+      <img src="https:///badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a> <br>
+   <img src="https://komarev.com/ghpvc/?username=Witherbear&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
 ---
@@ -16,16 +18,26 @@ Welcome to my profile! <br>
 
 ---
 
-### Languages and Tools :
+### Languages, Tools, and Frameworks :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40">
 </div>
 
 ---
