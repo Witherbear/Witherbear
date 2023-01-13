@@ -22,8 +22,12 @@
 ### Languages, Tools, and Frameworks :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
