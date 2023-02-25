@@ -13,11 +13,15 @@
 ---
 ### About Me:
 
-- :zap: I'm just a guy who likes to modify codes
-- :man_technologist: I don't have any projects, but I want to create one!
-- :balloon: Just making nothing!
+- :zap: I'm just a guy who likes to modify codes.
+- :man_technologist: Currently working in some projects.
+- :balloon: I work with various programming languages.
 
 ---
+
+### Projects
+
+- 🎮 [Actbit](https://github.com/flashcontent/actbit) : A simple fantasy console made with ActionScript 3.
 
 ### Languages, Tools, and Frameworks :
 <div>
@@ -41,18 +45,20 @@
 ---
 
 ### Stats :
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Witherbear&theme=monokai&hide_border=true)](https://git.io/streak-stats) <br>
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witherbear&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 ---
 ### Today joke :
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 
-### Small Blog :
+### DEV Community blog :
 <!-- BLOG-POST-LIST:START -->
 - [Hello!](https://dev.to/witherbear/hello-29l5)
 <!-- BLOG-POST-LIST:END -->
