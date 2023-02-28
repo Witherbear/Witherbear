@@ -23,25 +23,20 @@
 
 - 🎮 [Actbit](https://github.com/flashcontent/actbit) : A simple fantasy console made with ActionScript 3.
 
-### Languages, Tools, and Frameworks :
+### Programming Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/haxe/haxe-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40">
 </div>
 
+
+### Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40">
+</div>
 ---
 
 ### Stats :
