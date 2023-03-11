@@ -21,7 +21,8 @@
 
 ### Projects
 
-- 🎮 [Actbit](https://github.com/flashcontent/actbit) : A simple fantasy console made with ActionScript 3.
+- 🎮 [Actbit](https://github.com/flashcontent/actbit) : A simple fantasy console made with Haxe and ActionScript 3.
+- 🍩 [DonutScript](https://github.com/flashcontent/donutscript) : The programming language that compiles to Java.
 
 ### Programming Languages:
 <div>
@@ -43,18 +44,24 @@
 ### Stats :
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Witherbear&theme=monokai&hide_border=true)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Witherbear&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witherbear&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Witherbear&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 ---
 ### Today joke :
+<div align="center">
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+  
+</div>
+
 ---
 
 ### DEV Community blog :
 <!-- BLOG-POST-LIST:START -->
 - [Hello!](https://dev.to/witherbear/hello-29l5)
 <!-- BLOG-POST-LIST:END -->
+
